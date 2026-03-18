@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+.env/
+
+# Optional variations (recommended)
+.venv/
+env/
+ENV/
+
+# Ignore environment files
+.env
+.env.*
